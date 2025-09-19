@@ -91,3 +91,9 @@ Thumbs.db
 *.exe
 *.out
 *.app
+
+# Ignore Visual Studio project/solution files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
