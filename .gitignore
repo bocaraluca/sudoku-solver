@@ -92,8 +92,11 @@ Thumbs.db
 *.out
 *.app
 
-# Ignore Visual Studio project/solution files
 *.sln
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+.gitattributes
+
+# Ignore solution files
+*.sln
